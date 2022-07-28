@@ -1,7 +1,7 @@
 ![header](https://github.com/tester-dono/ECTOBIOLOBAJUN/blob/main/Law-Services-Logo.jpg)
 ## I am a beginner flutter developer and I'm looking for junior position 
 
-##### [as a beginner, I have excessive expectations like payment in Caesars with shrimp]
+##### [as a beginner, I have excessive expectations like payment in Caesars with shrimps]
 #
 ### main frontline: 
 
