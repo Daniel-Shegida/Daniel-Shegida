@@ -1,15 +1,10 @@
-![header](https://github.com/tester-dono/ECTOBIOLOBAJUN/blob/main/Law-Services-Logo.jpg)
-## I am a beginner flutter developer and I'm looking for junior position 
 
-##### [as a beginner, I have excessive expectations like payment in Caesars with shrimps]
-#
 ### main frontline: 
-
-![Android](https://img.shields.io/badge/<Android>-white?style=for-the-badge&logo=android&logoColor=green)
 ![Flutter](https://img.shields.io/badge/<Flutter>-FFFACD?style=for-the-badge&logo=flutter&logoColor=00BFFF)
 ![Dart](https://img.shields.io/badge/<Dart>-informational?style=for-the-badge&logo=Dart&logoColor=00BFFF)
-![Kotlin](https://img.shields.io/badge/<Kotlin>-orange?style=for-the-badge&logo=kotlin&logoColor=00BFFF)
 ### also know:
+![Android](https://img.shields.io/badge/<Android>-white?style=for-the-badge&logo=android&logoColor=green)
+![Kotlin](https://img.shields.io/badge/<Kotlin>-orange?style=for-the-badge&logo=kotlin&logoColor=00BFFF)
 ![Python](https://img.shields.io/badge/<Python>-ddAAAD?style=for-the-badge&logo=Python&logoColor=silgver)
 ![C](https://img.shields.io/badge/<C>-a0BFFF?style=for-the-badge&logo=C&logoColor=snow)
 ![SQL](https://img.shields.io/badge/<SQL>-FFaACD?style=for-the-badge&logo=PostgreSQL&logoColor=00BFFF)
