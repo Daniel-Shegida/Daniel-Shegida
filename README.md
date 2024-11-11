@@ -11,7 +11,7 @@
 [![Telegram](https://img.shields.io/badge/<Telegram>-blue?style=for-the-badge&logo=Telegram&logoColor=silver)](https://t.me/tester_dono)
 [![mail](https://img.shields.io/badge/<Mail>-snow?style=for-the-badge&logo=Gmail&logoColor=red)](den.shegida@gmail.com)
 
-## Коммерческие проекты, в которых принимал участие: 
+## Коммерческие проекты без nda, в которых принимал участие: 
 ### Car Photos Handler: 
 небольшой проект для андроида, в котором заказчик может фотографировать машины по шаблону и автоматически сохраняет это в гугл доке
 
